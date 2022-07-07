@@ -1,4 +1,4 @@
-# Treinamento em Listas, Pilhas e Filas Estáticas e Dinâmicas
+# Hash Dupla Aberta e Hash Fechada
 
 [![Linguagem C](https://img.shields.io/badge/Linguagem-C-green.svg)](https://devdocs.io/c/)
 [![requirement](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-informational)](https://code.visualstudio.com/docs/?dv=linux64_deb)
